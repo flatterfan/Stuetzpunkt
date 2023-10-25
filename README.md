@@ -19,8 +19,8 @@
 Alle anderen können Währenddessen schlafen oder essen, Waffe Putzen usw.
 
 **Weitere Regeln:**
-- Fähnriche können nur im Zelt wache haben. Und haben am Tag andere Aufgaben die ca. **4 Std.** Verbrauchen.
-- Stabsgefreite können nur Feuerwache und im Zelt Wache haben. Dazu haben sie am Tag ca. **3 Std.** zusätzliche Aufgaben.
-- Mindestens ein Funker muss immer am Radio sein. Sie können auch Zelt Wache haben. Zusätzlich müssen die zwei Funker mindestens **6 Std. am Tag gleichzeitig beim Radio anwesend sein**. 
+- Fähnriche können nur im Zelt wache haben. Und haben am Tag andere Aufgaben die **4 Std.** Verbrauchen.
+- Stabsgefreite können nur Feuerwache und im Zelt Wache haben. Dazu haben sie am Tag **3 Std.** zusätzliche Aufgaben.
+- Mindestens ein Funker muss immer am Radio sein. Sie können auch Zelt Wache haben. Zusätzlich müssen die zwei Funker **6 Std. am Tag gleichzeitig beim Radio anwesend sein**. 
 - Jäger können jede Wache machen und haben zusätzlich **2 Std.** am Tag zusätzliche Aufgaben.
 
